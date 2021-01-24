@@ -369,7 +369,7 @@
 }
 
 .fa-layer-group,
-.fa-user{
+.fa-users{
     font-size: 14rem;
 }
 
@@ -421,7 +421,7 @@
         width: 250px;
         height: 250px;
     }
-    .fa-layer-group, .fa-user{
+    .fa-layer-group, .fa-users{
         font-size: 4rerm;
     }
     .main-content h1{
